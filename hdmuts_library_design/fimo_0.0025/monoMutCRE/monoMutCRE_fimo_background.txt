@@ -1,0 +1,24 @@
+# 1-order Markov frequencies from file /mnt/v/yqzheng/qiaoer/PhD Thesis/Experiment/MPRA/hdmuts_library/fimo_0.0025/monoMutCRE/allCRE.CRX_Corbo.mutated.fa
+# seqs: 9829    min: 134    max: 134    avg: 134.0    sum: 1317086    alph: DNA
+# order 0
+A 2.513e-01
+C 2.487e-01
+G 2.487e-01
+T 2.513e-01
+# order 1
+AA 6.256e-02
+AC 5.393e-02
+AG 8.674e-02
+AT 4.803e-02
+CA 6.836e-02
+CC 6.801e-02
+CG 2.568e-02
+CT 8.674e-02
+GA 6.232e-02
+GC 6.437e-02
+GG 6.801e-02
+GT 5.393e-02
+TA 5.809e-02
+TC 6.232e-02
+TG 6.836e-02
+TT 6.256e-02

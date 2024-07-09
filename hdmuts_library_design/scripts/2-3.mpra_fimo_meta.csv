@@ -1,0 +1,14 @@
+sampleName,inputFA,markovBG,outputDir
+allCRE,allCRE/mpraAllCRE.fa,allCRE/mpraAllCRE_background,allCRE_fimo
+allCRE_fimo,allCRE_fimo/allCRE_fimo.k88n_olap.MEME.2.masked.fa,allCRE_fimo/allCRE_fimo_background,allCRE_fimo2
+allCRE_fimo2,allCRE_fimo2/allCRE_fimo2.k88n_olap.MEME.2.masked.fa,allCRE_fimo2/allCRE_fimo2_background,allCRE_fimo3
+allCRE_fimo3,allCRE_fimo3/allCRE_fimo3.k88n_olap.MEME.2.masked.fa,allCRE_fimo3/allCRE_fimo2_background,allCRE_fimo4
+dimerMutCRE,dimerMutCRE/allCRE.k88n_olap.MEME.2.mutated.fa,dimerMutCRE/dimerMutCRE_fimo_background,dimerMutCRE_fimo
+monoMutCRE,monoMutCRE/allCRE.Crx.MA0467.1.mutated.fa,monoMutCRE/monoMutCRE_fimo_background,monoMutCRE_fimo
+monoMutCRE_fimo,monoMutCRE_fimo/allCRE.Crx.MA0467.1.mutated.fa,monoMutCRE_fimo/monoMutCRE_fimo_background,monoMutCRE_fimo2
+monoMutCRE_fimo2,monoMutCRE_fimo2/allCRE.Crx.MA0467.1.mutated.fa,monoMutCRE_fimo2/monoMutCRE_fimo2_background,monoMutCRE_fimo3
+monoMutCRE,monoMutCRE/allCRE.CRX_Corbo.mutated.fa,monoMutCRE/monoMutCRE_fimo_background,monoMutCRE_fimo
+monoMutCRE_fimo,monoMutCRE_fimo/allCRE.CRX_Corbo.mutated.fa,monoMutCRE_fimo/monoMutCRE_fimo_background,monoMutCRE_fimo2
+monoMutCRE_fimo2,monoMutCRE_fimo2/allCRE.CRX_Corbo.mutated.fa,monoMutCRE_fimo2/monoMutCRE_fimo2_background,monoMutCRE_fimo3
+monoMutCRE_fimo3,monoMutCRE_fimo3/allCRE.CRX_Corbo.mutated.fa,monoMutCRE_fimo3/monoMutCRE_fimo3_background,monoMutCRE_fimo4
+final_exam,final_exam/hdmuts_library.allMutatedCREs.fa,final_exam/hdmuts_library.allMutatedCREs.background,final_exam

@@ -1,0 +1,24 @@
+# 1-order Markov frequencies from file /mnt/v/yqzheng/qiaoer/PhD Thesis/Experiment/MPRA/hdmuts_library/fimo_0.0025/allCRE_fimo/allCRE_fimo.k88n_olap.MEME.2.masked.fa
+# seqs: 9829    min: 134    max: 134    avg: 134.0    sum: 1317086    alph: DNA
+# order 0
+A 2.578e-01
+C 2.422e-01
+G 2.422e-01
+T 2.578e-01
+# order 1
+AA 7.006e-02
+AC 4.600e-02
+AG 8.300e-02
+AT 5.870e-02
+CA 6.874e-02
+CC 6.857e-02
+CG 2.197e-02
+CT 8.300e-02
+GA 6.281e-02
+GC 6.490e-02
+GG 6.857e-02
+GT 4.600e-02
+TA 5.608e-02
+TC 6.281e-02
+TG 6.874e-02
+TT 7.006e-02

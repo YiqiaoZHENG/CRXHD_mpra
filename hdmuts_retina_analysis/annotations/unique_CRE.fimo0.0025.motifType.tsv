@@ -1,0 +1,1788 @@
+peak.id	annotation	motif	WT	mutM	mutD	mutDM
+peak.1000	EGain	['WT' 'mutM']	True	True	False	False
+peak.1003	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1007	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1012	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1013	KLost	['WT']	True	False	False	False
+peak.1016	KGain	['WT' 'mutM']	True	True	False	False
+peak.102	EGain	['WT' 'mutM']	True	True	False	False
+peak.1033	ELost	['WT' 'mutM']	True	True	False	False
+peak.1051	ELost	['WT' 'mutM']	True	True	False	False
+peak.1052	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1064	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1076	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1078	ELost	['WT' 'mutM']	True	True	False	False
+peak.1099	ELost	['WT' 'mutM']	True	True	False	False
+peak.1105	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1107	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1117	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1120	KLost	['WT' 'mutM']	True	True	False	False
+peak.1121	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1126	KLost	['WT' 'mutM']	True	True	False	False
+peak.1141	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1146	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1149	EGain	['WT' 'mutM']	True	True	False	False
+peak.1153	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1154	NotDB	['WT']	True	False	False	False
+peak.1156	KLost	['WT' 'mutM']	True	True	False	False
+peak.1157	KLost	['WT']	True	False	False	False
+peak.1165	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1169	KLost	['WT' 'mutM']	True	True	False	False
+peak.1170	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1172	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1177	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1182	KGain	['WT']	True	False	False	False
+peak.1184	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1185	KGain	['WT' 'mutM']	True	True	False	False
+peak.1188	KLost	['WT']	True	False	False	False
+peak.1201	KGain	['WT' 'mutM']	True	True	False	False
+peak.1203	KLost	['WT' 'mutM']	True	True	False	False
+peak.1204	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1209	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.121	ELost	['WT' 'mutM']	True	True	False	False
+peak.1213	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1214	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1218	KLost	['WT' 'mutM']	True	True	False	False
+peak.1219	KGain	['WT' 'mutM']	True	True	False	False
+peak.1230	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1237	ELost	['WT' 'mutM']	True	True	False	False
+peak.1256	NotDB	['WT' 'mutM']	True	True	False	False
+peak.126	EGain	['WT' 'mutM']	True	True	False	False
+peak.1264	EGain	['WT' 'mutM']	True	True	False	False
+peak.1265	EGain	['WT' 'mutM']	True	True	False	False
+peak.1285	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1286	KLost	['WT' 'mutM']	True	True	False	False
+peak.1287	KLost	['WT' 'mutM']	True	True	False	False
+peak.1293	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.130	KLost	['WT' 'mutM']	True	True	False	False
+peak.1305	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.131	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1314	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1315	KLost	['WT' 'mutM']	True	True	False	False
+peak.1329	KLost	['WT' 'mutD']	True	False	True	False
+peak.133	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.134	KGain	['WT' 'mutM']	True	True	False	False
+peak.1343	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1353	KLost	['WT' 'mutM']	True	True	False	False
+peak.1370	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1374	ELost	['WT' 'mutM']	True	True	False	False
+peak.1379	KLost	['WT' 'mutD']	True	False	True	False
+peak.1385	KLost	['WT' 'mutM']	True	True	False	False
+peak.1393	EGain	['WT' 'mutM']	True	True	False	False
+peak.1398	KLost	['WT' 'mutM']	True	True	False	False
+peak.1404	KLost	['WT']	True	False	False	False
+peak.1405	EGain	['WT' 'mutM']	True	True	False	False
+peak.1407	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1413	KLost	['WT' 'mutM']	True	True	False	False
+peak.1417	KLost	['WT' 'mutM']	True	True	False	False
+peak.1424	KLost	['WT']	True	False	False	False
+peak.1427	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1435	KLost	['WT' 'mutM']	True	True	False	False
+peak.1436	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1438	KLost	['WT' 'mutM']	True	True	False	False
+peak.1440	KLost	['WT' 'mutM']	True	True	False	False
+peak.1441	KLost	['WT']	True	False	False	False
+peak.1443	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1447	KGain	['WT' 'mutM']	True	True	False	False
+peak.145	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1452	EGain	['WT' 'mutM']	True	True	False	False
+peak.1455	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1461	EGain	['WT' 'mutM']	True	True	False	False
+peak.1463	KLost	['WT' 'mutM']	True	True	False	False
+peak.1467	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1468	KLost	['WT' 'mutM']	True	True	False	False
+peak.147	KLost	['WT' 'mutM']	True	True	False	False
+peak.1474	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1482	KLost	['WT' 'mutM']	True	True	False	False
+peak.1485	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1492	ELost	['WT' 'mutM']	True	True	False	False
+peak.1498	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.15	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1503	ELost	['WT' 'mutM']	True	True	False	False
+peak.1507	KGain	['WT' 'mutM']	True	True	False	False
+peak.1511	KLost	['WT' 'mutM']	True	True	False	False
+peak.1525	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1529	KLost	['WT']	True	False	False	False
+peak.1531	KLost	['WT' 'mutM']	True	True	False	False
+peak.1533	ELost	['WT' 'mutM']	True	True	False	False
+peak.1544	KLost	['WT' 'mutM']	True	True	False	False
+peak.1547	KLost	['WT']	True	False	False	False
+peak.1548	NotDB	['WT' 'mutM']	True	True	False	False
+peak.155	KLost	['WT' 'mutM']	True	True	False	False
+peak.1555	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1556	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1557	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1569	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1570	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1572	KGain	['WT' 'mutM']	True	True	False	False
+peak.1573	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1574	KLost	['WT' 'mutM']	True	True	False	False
+peak.1579	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1580	KGain	['WT' 'mutM']	True	True	False	False
+peak.1583	EGain	['WT' 'mutM']	True	True	False	False
+peak.159	ELost	['WT' 'mutM']	True	True	False	False
+peak.1591	NotDB	['WT' 'mutM']	True	True	False	False
+peak.160	KLost	['WT' 'mutM']	True	True	False	False
+peak.1606	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1607	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1621	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1622	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1625	KLost	['WT' 'mutM']	True	True	False	False
+peak.1630	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1643	KLost	['WT' 'mutM']	True	True	False	False
+peak.1655	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1660	EGain	['WT' 'mutM']	True	True	False	False
+peak.1667	KLost	['WT']	True	False	False	False
+peak.1674	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1675	KLost	['WT' 'mutM']	True	True	False	False
+peak.1677	KLost	['WT']	True	False	False	False
+peak.1681	ELost	['WT' 'mutM']	True	True	False	False
+peak.1686	KLost	['WT' 'mutM']	True	True	False	False
+peak.1687	KLost	['WT']	True	False	False	False
+peak.1690	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1692	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.1698	NotDB	['WT' 'mutD']	True	False	True	False
+peak.1709	NotDB	['WT' 'mutM']	True	True	False	False
+peak.172	EGain	['WT' 'mutM']	True	True	False	False
+peak.1721	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1727	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1735	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1747	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1749	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1762	EGain	['WT' 'mutM']	True	True	False	False
+peak.1767	KGain	['WT' 'mutM']	True	True	False	False
+peak.1768	EGain	['WT' 'mutM']	True	True	False	False
+peak.1792	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1796	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1797	KLost	['WT' 'mutM']	True	True	False	False
+peak.1799	KLost	['WT' 'mutM']	True	True	False	False
+peak.1808	NotDB	['WT']	True	False	False	False
+peak.1809	NotDB	['WT']	True	False	False	False
+peak.181	KLost	['WT' 'mutM']	True	True	False	False
+peak.1818	ELost	['WT' 'mutD']	True	False	True	False
+peak.1828	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1832	KLost	['WT' 'mutM']	True	True	False	False
+peak.1839	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1840	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1844	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1848	EGain	['WT' 'mutM']	True	True	False	False
+peak.1849	KLost	['WT' 'mutM']	True	True	False	False
+peak.1854	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1860	KGain	['WT' 'mutM']	True	True	False	False
+peak.1861	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1871	KLost	['WT' 'mutM']	True	True	False	False
+peak.1873	KLost	['WT' 'mutM']	True	True	False	False
+peak.1877	NotDB	['WT' 'mutM']	True	True	False	False
+peak.188	KLost	['WT' 'mutM']	True	True	False	False
+peak.1881	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1886	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1894	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1895	EGain	['WT' 'mutM']	True	True	False	False
+peak.1897	EGain	['WT' 'mutM']	True	True	False	False
+peak.1902	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1903	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1905	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1907	KLost	['WT' 'mutM']	True	True	False	False
+peak.1911	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1918	KLost	['WT']	True	False	False	False
+peak.1920	KGain	['WT' 'mutM']	True	True	False	False
+peak.1921	KLost	['WT' 'mutM']	True	True	False	False
+peak.1922	ELost	['WT' 'mutM']	True	True	False	False
+peak.1924	EGain	['WT' 'mutM']	True	True	False	False
+peak.1930	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1940	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1942	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1943	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1945	KLost	['WT' 'mutM']	True	True	False	False
+peak.1953	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1964	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.1966	EGain	['WT']	True	False	False	False
+peak.1967	KLost	['WT' 'mutM']	True	True	False	False
+peak.1971	EGain	['WT' 'mutM']	True	True	False	False
+peak.1974	ELost	['WT']	True	False	False	False
+peak.1975	KGain	['WT' 'mutM']	True	True	False	False
+peak.1977	NotDB	['WT' 'mutM']	True	True	False	False
+peak.1982	KLost	['WT' 'mutM']	True	True	False	False
+peak.1983	ELost	['WT' 'mutM']	True	True	False	False
+peak.1991	KGain	['WT' 'mutD']	True	False	True	False
+peak.1992	KLost	['WT' 'mutM']	True	True	False	False
+peak.1993	KLost	['WT' 'mutM']	True	True	False	False
+peak.1997	KGain	['WT' 'mutM']	True	True	False	False
+peak.2000	KGain	['WT' 'mutM']	True	True	False	False
+peak.2007	KGain	['WT' 'mutM']	True	True	False	False
+peak.2008	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2017	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2022	EGain	['WT' 'mutM']	True	True	False	False
+peak.2027	KLost	['WT' 'mutM']	True	True	False	False
+peak.2039	KGain	['WT' 'mutM']	True	True	False	False
+peak.2040	KLost	['WT' 'mutM']	True	True	False	False
+peak.2044	KLost	['WT']	True	False	False	False
+peak.2048	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.205	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2054	KLost	['WT' 'mutM']	True	True	False	False
+peak.2057	EGain	['WT']	True	False	False	False
+peak.206	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2084	KLost	['WT' 'mutM']	True	True	False	False
+peak.2088	ELost	['WT' 'mutM']	True	True	False	False
+peak.2094	KGain	['WT' 'mutM']	True	True	False	False
+peak.2098	KLost	['WT' 'mutM']	True	True	False	False
+peak.2101	EGain	['WT' 'mutM']	True	True	False	False
+peak.2107	ELost	['WT' 'mutM']	True	True	False	False
+peak.2108	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2112	KLost	['WT']	True	False	False	False
+peak.212	KGain	['WT' 'mutM']	True	True	False	False
+peak.2122	EGain	['WT' 'mutM']	True	True	False	False
+peak.2127	KLost	['WT' 'mutM']	True	True	False	False
+peak.2139	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2141	KLost	['WT' 'mutM']	True	True	False	False
+peak.2144	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2146	NotDB	['WT' 'mutM']	True	True	False	False
+peak.215	ELost	['WT' 'mutM']	True	True	False	False
+peak.2178	KLost	['WT' 'mutM']	True	True	False	False
+peak.2180	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2186	EGain	['WT']	True	False	False	False
+peak.219	EGain	['WT' 'mutM']	True	True	False	False
+peak.2195	KGain	['WT' 'mutM']	True	True	False	False
+peak.2199	NotDB	['WT' 'mutM']	True	True	False	False
+peak.220	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2207	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2208	KGain	['WT' 'mutM']	True	True	False	False
+peak.2209	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2213	KLost	['WT']	True	False	False	False
+peak.2221	KLost	['WT']	True	False	False	False
+peak.2230	ELost	['WT' 'mutM']	True	True	False	False
+peak.2232	KGain	['WT' 'mutM']	True	True	False	False
+peak.2233	ELost	['WT' 'mutD']	True	False	True	False
+peak.2238	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.224	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2243	KLost	['WT']	True	False	False	False
+peak.2248	KLost	['WT' 'mutM']	True	True	False	False
+peak.2251	ELost	['WT' 'mutM']	True	True	False	False
+peak.226	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2268	EGain	['WT' 'mutM']	True	True	False	False
+peak.228	KGain	['WT' 'mutM']	True	True	False	False
+peak.2281	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2282	EGain	['WT' 'mutM']	True	True	False	False
+peak.2284	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.229	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2297	EGain	['WT' 'mutM']	True	True	False	False
+peak.2309	EGain	['WT' 'mutM']	True	True	False	False
+peak.2317	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2319	EGain	['WT' 'mutM']	True	True	False	False
+peak.2326	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2327	ELost	['WT' 'mutM']	True	True	False	False
+peak.2334	KGain	['WT' 'mutM']	True	True	False	False
+peak.2361	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2371	KLost	['WT' 'mutM']	True	True	False	False
+peak.2375	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2377	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2378	KLost	['WT' 'mutM']	True	True	False	False
+peak.2393	ELost	['WT' 'mutM']	True	True	False	False
+peak.2396	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2400	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2401	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2406	KLost	['WT' 'mutM']	True	True	False	False
+peak.2411	EGain	['WT' 'mutM']	True	True	False	False
+peak.2419	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2421	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2433	KLost	['WT' 'mutD']	True	False	True	False
+peak.2434	ELost	['WT' 'mutD']	True	False	True	False
+peak.2435	KLost	['WT' 'mutM']	True	True	False	False
+peak.2438	KGain	['WT' 'mutM']	True	True	False	False
+peak.2440	KLost	['WT' 'mutM']	True	True	False	False
+peak.2442	KLost	['WT' 'mutM']	True	True	False	False
+peak.2443	KLost	['WT' 'mutM']	True	True	False	False
+peak.2450	ELost	['WT']	True	False	False	False
+peak.2455	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2457	EGain	['WT' 'mutM']	True	True	False	False
+peak.2458	EGain	['WT' 'mutM']	True	True	False	False
+peak.2460	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2465	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.247	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2483	NotDB	['WT' 'mutM']	True	True	False	False
+peak.249	EGain	['WT' 'mutM']	True	True	False	False
+peak.2495	KLost	['WT' 'mutM']	True	True	False	False
+peak.250	EGain	['WT' 'mutM']	True	True	False	False
+peak.2501	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2510	EGain	['WT' 'mutM']	True	True	False	False
+peak.2511	EGain	['WT' 'mutM']	True	True	False	False
+peak.2515	ELost	['WT' 'mutM']	True	True	False	False
+peak.2519	KLost	['WT' 'mutM']	True	True	False	False
+peak.2521	EGain	['WT' 'mutM']	True	True	False	False
+peak.2524	KLost	['WT' 'mutM']	True	True	False	False
+peak.2528	KGain	['WT' 'mutD']	True	False	True	False
+peak.2529	EGain	['WT' 'mutM']	True	True	False	False
+peak.253	KLost	['WT' 'mutM']	True	True	False	False
+peak.2531	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2543	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2556	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2578	KLost	['WT' 'mutM']	True	True	False	False
+peak.2581	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2597	KGain	['WT' 'mutD']	True	False	True	False
+peak.2599	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2603	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2605	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2607	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2612	EGain	['WT' 'mutM']	True	True	False	False
+peak.2616	EGain	['WT' 'mutM']	True	True	False	False
+peak.2619	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2637	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.264	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2642	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2663	EGain	['WT' 'mutM']	True	True	False	False
+peak.2665	EGain	['WT' 'mutM']	True	True	False	False
+peak.2669	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2670	KLost	['WT' 'mutD']	True	False	True	False
+peak.2671	KLost	['WT' 'mutM']	True	True	False	False
+peak.2677	KLost	['WT' 'mutM']	True	True	False	False
+peak.2679	KLost	['WT' 'mutM']	True	True	False	False
+peak.2681	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2682	ELost	['WT' 'mutD']	True	False	True	False
+peak.2683	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.269	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2705	ELost	['WT' 'mutM']	True	True	False	False
+peak.2706	NotDB	['WT']	True	False	False	False
+peak.2718	EGain	['WT' 'mutM']	True	True	False	False
+peak.2727	ELost	['WT' 'mutM']	True	True	False	False
+peak.2729	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2733	ELost	['WT' 'mutM']	True	True	False	False
+peak.2740	KLost	['WT' 'mutM']	True	True	False	False
+peak.2743	KLost	['WT' 'mutM']	True	True	False	False
+peak.2746	KLost	['WT']	True	False	False	False
+peak.2748	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2749	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2755	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.276	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2762	ELost	['WT' 'mutM']	True	True	False	False
+peak.2767	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2783	KLost	['WT']	True	False	False	False
+peak.2786	KLost	['WT' 'mutM']	True	True	False	False
+peak.2798	KLost	['WT' 'mutM']	True	True	False	False
+peak.2803	KGain	['WT' 'mutM']	True	True	False	False
+peak.2804	ELost	['WT' 'mutD']	True	False	True	False
+peak.2811	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2814	KLost	['WT']	True	False	False	False
+peak.2819	ELost	['WT' 'mutM']	True	True	False	False
+peak.2822	KLost	['WT' 'mutM']	True	True	False	False
+peak.2842	KLost	['WT' 'mutM']	True	True	False	False
+peak.2850	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2859	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2860	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2868	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2869	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2871	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.2875	ELost	['WT' 'mutM']	True	True	False	False
+peak.288	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2885	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2889	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.29	KGain	['WT' 'mutD']	True	False	True	False
+peak.290	EGain	['WT' 'mutM']	True	True	False	False
+peak.2919	KGain	['WT' 'mutD']	True	False	True	False
+peak.2927	ELost	['WT' 'mutM']	True	True	False	False
+peak.2928	ELost	['WT' 'mutM']	True	True	False	False
+peak.2933	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2951	KLost	['WT' 'mutM']	True	True	False	False
+peak.2957	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2977	EGain	['WT' 'mutM']	True	True	False	False
+peak.2978	NotDB	['WT' 'mutM']	True	True	False	False
+peak.2979	KLost	['WT' 'mutM']	True	True	False	False
+peak.2995	EGain	['WT' 'mutM']	True	True	False	False
+peak.2999	EGain	['WT' 'mutM']	True	True	False	False
+peak.3	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.3007	ELost	['WT' 'mutM']	True	True	False	False
+peak.3009	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3018	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3024	EGain	['WT' 'mutM']	True	True	False	False
+peak.3026	KLost	['WT' 'mutM']	True	True	False	False
+peak.3032	KLost	['WT']	True	False	False	False
+peak.3033	ELost	['WT' 'mutM']	True	True	False	False
+peak.3035	KLost	['WT' 'mutM']	True	True	False	False
+peak.3038	EGain	['WT' 'mutM']	True	True	False	False
+peak.3040	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3043	KGain	['WT' 'mutM']	True	True	False	False
+peak.305	EGain	['WT' 'mutM']	True	True	False	False
+peak.3060	KGain	['WT']	True	False	False	False
+peak.3071	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3078	KLost	['WT' 'mutM']	True	True	False	False
+peak.3084	EGain	['WT' 'mutM']	True	True	False	False
+peak.3086	KGain	['WT' 'mutM']	True	True	False	False
+peak.3088	ELost	['WT' 'mutM']	True	True	False	False
+peak.309	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3095	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3102	KLost	['WT' 'mutM']	True	True	False	False
+peak.3103	KGain	['WT' 'mutM']	True	True	False	False
+peak.3107	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3114	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3117	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3126	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.313	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3137	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3139	KGain	['WT' 'mutM']	True	True	False	False
+peak.314	EGain	['WT' 'mutM']	True	True	False	False
+peak.3140	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3143	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3149	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3169	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.317	NotDB	['WT']	True	False	False	False
+peak.3177	KLost	['WT' 'mutM']	True	True	False	False
+peak.3180	NotDB	['WT']	True	False	False	False
+peak.3194	KLost	['WT' 'mutM']	True	True	False	False
+peak.32	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3207	NotDB	['WT' 'mutM']	True	True	False	False
+peak.321	KGain	['WT' 'mutM']	True	True	False	False
+peak.3215	ELost	['WT' 'mutM']	True	True	False	False
+peak.3220	KLost	['WT' 'mutM']	True	True	False	False
+peak.3224	KGain	['WT' 'mutM']	True	True	False	False
+peak.3225	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3239	KLost	['WT' 'mutM']	True	True	False	False
+peak.3248	KLost	['WT' 'mutM']	True	True	False	False
+peak.3254	EGain	['WT' 'mutM']	True	True	False	False
+peak.3264	KLost	['WT' 'mutM']	True	True	False	False
+peak.3268	KLost	['WT' 'mutM']	True	True	False	False
+peak.3271	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3275	KGain	['WT' 'mutM']	True	True	False	False
+peak.3276	KGain	['WT' 'mutD']	True	False	True	False
+peak.3281	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3283	KLost	['WT' 'mutM']	True	True	False	False
+peak.3289	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3293	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3295	KGain	['WT' 'mutM']	True	True	False	False
+peak.3313	ELost	['WT' 'mutM']	True	True	False	False
+peak.3319	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3335	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3336	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3337	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3341	KGain	['WT' 'mutM']	True	True	False	False
+peak.3344	KLost	['WT' 'mutM']	True	True	False	False
+peak.3373	ELost	['WT' 'mutM']	True	True	False	False
+peak.3377	EGain	['WT' 'mutM']	True	True	False	False
+peak.3379	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3391	KLost	['WT' 'mutM']	True	True	False	False
+peak.3405	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.3406	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.3407	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.3409	RetinalGene	['WT' 'mutD']	True	False	True	False
+peak.3420	KLost	['WT' 'mutM']	True	True	False	False
+peak.343	KGain	['WT' 'mutD']	True	False	True	False
+peak.3434	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3441	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3443	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3448	EGain	['WT' 'mutM']	True	True	False	False
+peak.3450	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.3452	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3455	EGain	['WT' 'mutM']	True	True	False	False
+peak.3475	KLost	['WT' 'mutM']	True	True	False	False
+peak.3480	EGain	['WT' 'mutM']	True	True	False	False
+peak.3482	KGain	['WT' 'mutM']	True	True	False	False
+peak.3492	EGain	['WT' 'mutM']	True	True	False	False
+peak.3493	EGain	['WT' 'mutM']	True	True	False	False
+peak.3497	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3501	ELost	['WT' 'mutM']	True	True	False	False
+peak.3509	ELost	['WT' 'mutM']	True	True	False	False
+peak.3510	ELost	['WT' 'mutM']	True	True	False	False
+peak.3511	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3517	KLost	['WT' 'mutM']	True	True	False	False
+peak.3523	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3524	ELost	['WT' 'mutM']	True	True	False	False
+peak.3528	EGain	['WT' 'mutM']	True	True	False	False
+peak.3541	KLost	['WT' 'mutM']	True	True	False	False
+peak.3543	NotDB	['WT' 'mutM']	True	True	False	False
+peak.355	EGain	['WT' 'mutM']	True	True	False	False
+peak.3550	KLost	['WT' 'mutM']	True	True	False	False
+peak.3558	EGain	['WT' 'mutM']	True	True	False	False
+peak.3560	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3561	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3562	KGain	['WT' 'mutM']	True	True	False	False
+peak.3575	KLost	['WT' 'mutM']	True	True	False	False
+peak.3578	NotDB	['WT']	True	False	False	False
+peak.358	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3591	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.3594	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.3595	RetinalGene	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3597	KLost	['WT' 'mutM']	True	True	False	False
+peak.3600	EGain	['WT' 'mutM']	True	True	False	False
+peak.3606	KGain	['WT' 'mutM']	True	True	False	False
+peak.3609	KGain	['WT' 'mutM']	True	True	False	False
+peak.3612	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.362	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3622	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3623	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3626	KLost	['WT' 'mutM']	True	True	False	False
+peak.3640	EGain	['WT' 'mutM']	True	True	False	False
+peak.3641	EGain	['WT' 'mutM']	True	True	False	False
+peak.3643	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3650	KLost	['WT' 'mutM']	True	True	False	False
+peak.3665	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3666	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3670	KLost	['WT' 'mutM']	True	True	False	False
+peak.3673	ELost	['WT']	True	False	False	False
+peak.3676	KLost	['WT' 'mutM']	True	True	False	False
+peak.3679	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.368	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3683	KLost	['WT' 'mutM']	True	True	False	False
+peak.3693	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3698	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3710	KLost	['WT' 'mutM']	True	True	False	False
+peak.3714	EGain	['WT' 'mutM']	True	True	False	False
+peak.3720	KLost	['WT' 'mutM']	True	True	False	False
+peak.3723	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3736	KLost	['WT' 'mutM']	True	True	False	False
+peak.3745	KLost	['WT' 'mutD']	True	False	True	False
+peak.3749	KGain	['WT' 'mutM']	True	True	False	False
+peak.3757	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3761	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3762	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3765	NotDB	['WT']	True	False	False	False
+peak.3768	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3770	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3773	NotDB	['WT']	True	False	False	False
+peak.378	ELost	['WT' 'mutM']	True	True	False	False
+peak.3785	KLost	['WT' 'mutM']	True	True	False	False
+peak.3797	KLost	['WT' 'mutM']	True	True	False	False
+peak.3800	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3812	KLost	['WT' 'mutM']	True	True	False	False
+peak.3813	KLost	['WT' 'mutM']	True	True	False	False
+peak.3814	EGain	['WT' 'mutM']	True	True	False	False
+peak.382	KLost	['WT']	True	False	False	False
+peak.3820	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3828	KGain	['WT' 'mutM']	True	True	False	False
+peak.3831	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3832	KGain	['WT' 'mutM']	True	True	False	False
+peak.3834	ELost	['WT' 'mutM']	True	True	False	False
+peak.3835	KGain	['WT' 'mutD']	True	False	True	False
+peak.3840	EGain	['WT' 'mutM']	True	True	False	False
+peak.3843	EGain	['WT' 'mutM']	True	True	False	False
+peak.3844	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3850	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3853	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3854	EGain	['WT' 'mutM']	True	True	False	False
+peak.3856	KLost	['WT']	True	False	False	False
+peak.3857	ELost	['WT' 'mutM']	True	True	False	False
+peak.3862	KLost	['WT' 'mutM']	True	True	False	False
+peak.3875	KLost	['WT' 'mutM']	True	True	False	False
+peak.3878	KGain	['WT']	True	False	False	False
+peak.388	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3884	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3885	EGain	['WT' 'mutM']	True	True	False	False
+peak.3886	ELost	['WT']	True	False	False	False
+peak.389	KLost	['WT' 'mutM']	True	True	False	False
+peak.3893	EGain	['WT' 'mutM']	True	True	False	False
+peak.3903	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3916	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3920	KLost	['WT' 'mutM']	True	True	False	False
+peak.3929	ELost	['WT' 'mutM']	True	True	False	False
+peak.3934	KLost	['WT']	True	False	False	False
+peak.3939	KLost	['WT' 'mutM']	True	True	False	False
+peak.394	KLost	['WT' 'mutM']	True	True	False	False
+peak.3943	NotDB	['WT' 'mutM']	True	True	False	False
+peak.3948	KLost	['WT']	True	False	False	False
+peak.395	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.3975	EGain	['WT' 'mutM']	True	True	False	False
+peak.3981	KGain	['WT' 'mutD']	True	False	True	False
+peak.3994	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4007	KLost	['WT' 'mutM']	True	True	False	False
+peak.4017	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.402	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4020	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4027	EGain	['WT' 'mutM']	True	True	False	False
+peak.4034	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4036	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4078	KLost	['WT' 'mutM']	True	True	False	False
+peak.4083	KLost	['WT' 'mutM']	True	True	False	False
+peak.4088	ELost	['WT' 'mutM']	True	True	False	False
+peak.4091	EGain	['WT' 'mutM']	True	True	False	False
+peak.4098	NotDB	['WT' 'mutM']	True	True	False	False
+peak.41	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4113	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4115	ELost	['WT']	True	False	False	False
+peak.4117	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4119	ELost	['WT' 'mutM']	True	True	False	False
+peak.4120	ELost	['WT' 'mutM']	True	True	False	False
+peak.4125	KGain	['WT' 'mutM']	True	True	False	False
+peak.4127	ELost	['WT' 'mutM']	True	True	False	False
+peak.4128	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4130	KLost	['WT' 'mutM']	True	True	False	False
+peak.4140	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4143	KLost	['WT' 'mutM']	True	True	False	False
+peak.4149	KLost	['WT' 'mutM']	True	True	False	False
+peak.4159	KGain	['WT' 'mutM']	True	True	False	False
+peak.4169	ELost	['WT' 'mutM']	True	True	False	False
+peak.417	KLost	['WT' 'mutM']	True	True	False	False
+peak.4170	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4171	KGain	['WT' 'mutM']	True	True	False	False
+peak.4172	KGain	['WT' 'mutD']	True	False	True	False
+peak.4175	KGain	['WT' 'mutM']	True	True	False	False
+peak.4180	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4182	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4199	ELost	['WT']	True	False	False	False
+peak.4203	EGain	['WT']	True	False	False	False
+peak.4206	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4208	KLost	['WT' 'mutM']	True	True	False	False
+peak.4209	KLost	['WT' 'mutM']	True	True	False	False
+peak.421	KGain	['WT' 'mutD']	True	False	True	False
+peak.4210	KGain	['WT' 'mutM']	True	True	False	False
+peak.4211	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4212	ELost	['WT']	True	False	False	False
+peak.4216	KLost	['WT' 'mutM']	True	True	False	False
+peak.4217	EGain	['WT' 'mutM']	True	True	False	False
+peak.4219	ELost	['WT' 'mutM']	True	True	False	False
+peak.4226	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4227	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4229	KLost	['WT' 'mutM']	True	True	False	False
+peak.4236	EGain	['WT' 'mutM']	True	True	False	False
+peak.4238	KLost	['WT' 'mutM']	True	True	False	False
+peak.4247	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4248	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.425	KLost	['WT' 'mutM']	True	True	False	False
+peak.4261	KLost	['WT' 'mutM']	True	True	False	False
+peak.4264	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4279	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4283	KLost	['WT' 'mutM']	True	True	False	False
+peak.4284	KLost	['WT' 'mutM']	True	True	False	False
+peak.4287	NotDB	['WT' 'mutM']	True	True	False	False
+peak.429	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4291	ELost	['WT' 'mutM']	True	True	False	False
+peak.4301	EGain	['WT' 'mutM']	True	True	False	False
+peak.4306	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4335	KGain	['WT' 'mutM']	True	True	False	False
+peak.4344	KLost	['WT' 'mutM']	True	True	False	False
+peak.4345	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4346	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4348	KGain	['WT' 'mutM']	True	True	False	False
+peak.4353	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4356	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4358	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4362	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4364	KGain	['WT' 'mutM']	True	True	False	False
+peak.4367	KLost	['WT' 'mutM']	True	True	False	False
+peak.437	EGain	['WT' 'mutM']	True	True	False	False
+peak.4376	KGain	['WT' 'mutM']	True	True	False	False
+peak.4377	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4379	ELost	['WT' 'mutD']	True	False	True	False
+peak.4383	KLost	['WT' 'mutM']	True	True	False	False
+peak.441	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4417	KLost	['WT' 'mutM']	True	True	False	False
+peak.4429	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4431	KLost	['WT' 'mutM']	True	True	False	False
+peak.4433	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4434	EGain	['WT' 'mutM']	True	True	False	False
+peak.4435	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4436	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4441	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4442	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4447	KGain	['WT' 'mutM']	True	True	False	False
+peak.4457	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4458	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4459	ELost	['WT' 'mutM']	True	True	False	False
+peak.446	KGain	['WT' 'mutM']	True	True	False	False
+peak.4460	EGain	['WT' 'mutM']	True	True	False	False
+peak.4463	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4469	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4470	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4472	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4476	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4478	KGain	['WT' 'mutM']	True	True	False	False
+peak.4483	ELost	['WT' 'mutM']	True	True	False	False
+peak.4484	KLost	['WT' 'mutM']	True	True	False	False
+peak.4488	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4494	KGain	['WT' 'mutM']	True	True	False	False
+peak.4497	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4500	KGain	['WT' 'mutD']	True	False	True	False
+peak.4509	NotDB	['WT']	True	False	False	False
+peak.4530	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4532	EGain	['WT' 'mutM']	True	True	False	False
+peak.4535	ELost	['WT' 'mutM']	True	True	False	False
+peak.4549	KLost	['WT' 'mutM']	True	True	False	False
+peak.4550	KGain	['WT' 'mutM']	True	True	False	False
+peak.4555	KLost	['WT']	True	False	False	False
+peak.4569	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4574	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4581	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4597	KLost	['WT' 'mutM']	True	True	False	False
+peak.4602	EGain	['WT' 'mutM']	True	True	False	False
+peak.4616	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4618	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4620	KLost	['WT']	True	False	False	False
+peak.4622	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4627	EGain	['WT' 'mutM']	True	True	False	False
+peak.4628	EGain	['WT' 'mutM']	True	True	False	False
+peak.4642	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4650	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4654	KLost	['WT' 'mutM']	True	True	False	False
+peak.4659	KLost	['WT']	True	False	False	False
+peak.4663	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4664	KLost	['WT' 'mutM']	True	True	False	False
+peak.467	ELost	['WT' 'mutM']	True	True	False	False
+peak.4687	KLost	['WT' 'mutM']	True	True	False	False
+peak.4688	NotDB	['WT']	True	False	False	False
+peak.4691	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.470	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4702	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4704	ELost	['WT' 'mutM']	True	True	False	False
+peak.4708	KLost	['WT']	True	False	False	False
+peak.4712	KLost	['WT' 'mutM']	True	True	False	False
+peak.472	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4721	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4725	KLost	['WT' 'mutM']	True	True	False	False
+peak.4732	KLost	['WT']	True	False	False	False
+peak.4734	KLost	['WT' 'mutM']	True	True	False	False
+peak.4736	EGain	['WT' 'mutM']	True	True	False	False
+peak.4749	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.475	KGain	['WT' 'mutM']	True	True	False	False
+peak.4752	KLost	['WT' 'mutM']	True	True	False	False
+peak.4753	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4765	KGain	['WT' 'mutM']	True	True	False	False
+peak.4773	KLost	['WT' 'mutM']	True	True	False	False
+peak.4780	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4784	EGain	['WT' 'mutM']	True	True	False	False
+peak.4788	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4791	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4807	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4808	KGain	['WT' 'mutM']	True	True	False	False
+peak.4810	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4815	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4821	ELost	['WT' 'mutM']	True	True	False	False
+peak.4823	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4824	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4829	ELost	['WT' 'mutM']	True	True	False	False
+peak.4836	EGain	['WT' 'mutM']	True	True	False	False
+peak.4841	KLost	['WT' 'mutM']	True	True	False	False
+peak.4842	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4843	KLost	['WT' 'mutM']	True	True	False	False
+peak.4845	ELost	['WT' 'mutM']	True	True	False	False
+peak.4847	KLost	['WT' 'mutM']	True	True	False	False
+peak.4848	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4850	KLost	['WT' 'mutM']	True	True	False	False
+peak.4852	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4854	ELost	['WT' 'mutM']	True	True	False	False
+peak.4855	ELost	['WT']	True	False	False	False
+peak.486	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4861	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4868	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.487	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4876	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4877	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4887	KLost	['WT' 'mutM']	True	True	False	False
+peak.489	KGain	['WT']	True	False	False	False
+peak.4891	ELost	['WT' 'mutM']	True	True	False	False
+peak.4892	ELost	['WT' 'mutM']	True	True	False	False
+peak.4899	ELost	['WT' 'mutM']	True	True	False	False
+peak.4902	ELost	['WT' 'mutM']	True	True	False	False
+peak.4909	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4937	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.494	KGain	['WT' 'mutM']	True	True	False	False
+peak.4948	NotDB	['WT' 'mutM']	True	True	False	False
+peak.495	KGain	['WT' 'mutM']	True	True	False	False
+peak.4951	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4955	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4958	ELost	['WT' 'mutM']	True	True	False	False
+peak.4967	EGain	['WT' 'mutM']	True	True	False	False
+peak.4968	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4970	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4972	KGain	['WT' 'mutM']	True	True	False	False
+peak.4974	NotDB	['WT' 'mutM']	True	True	False	False
+peak.4976	KGain	['WT' 'mutM']	True	True	False	False
+peak.4981	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.4984	EGain	['WT' 'mutM']	True	True	False	False
+peak.4991	KLost	['WT' 'mutM']	True	True	False	False
+peak.4996	KLost	['WT' 'mutM']	True	True	False	False
+peak.4999	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.5	ELost	['WT' 'mutD']	True	False	True	False
+peak.500	EGain	['WT' 'mutM']	True	True	False	False
+peak.5003	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5009	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.5010	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.5011	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.5015	KGain	['WT' 'mutM']	True	True	False	False
+peak.5019	ELost	['WT' 'mutM']	True	True	False	False
+peak.5021	ELost	['WT' 'mutM']	True	True	False	False
+peak.5022	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.503	EGain	['WT' 'mutM']	True	True	False	False
+peak.5038	KLost	['WT' 'mutM']	True	True	False	False
+peak.5039	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.504	NotDB	['WT']	True	False	False	False
+peak.5040	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5042	KLost	['WT' 'mutM']	True	True	False	False
+peak.5059	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5072	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5077	KGain	['WT' 'mutM']	True	True	False	False
+peak.5078	KGain	['WT' 'mutM']	True	True	False	False
+peak.5079	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5081	KLost	['WT' 'mutM']	True	True	False	False
+peak.5093	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5100	KGain	['WT' 'mutM']	True	True	False	False
+peak.5111	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5121	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5122	EGain	['WT' 'mutM']	True	True	False	False
+peak.5124	KGain	['WT' 'mutM']	True	True	False	False
+peak.5127	KGain	['WT' 'mutM']	True	True	False	False
+peak.514	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5142	KLost	['WT' 'mutM']	True	True	False	False
+peak.5144	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5145	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5148	ELost	['WT']	True	False	False	False
+peak.5154	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5167	KLost	['WT' 'mutM']	True	True	False	False
+peak.5179	KLost	['WT' 'mutM']	True	True	False	False
+peak.5183	KLost	['WT']	True	False	False	False
+peak.519	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5190	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5200	KLost	['WT' 'mutM']	True	True	False	False
+peak.5207	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5209	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5212	KLost	['WT']	True	False	False	False
+peak.5219	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5221	EGain	['WT' 'mutM']	True	True	False	False
+peak.5223	KGain	['WT' 'mutM']	True	True	False	False
+peak.5224	ELost	['WT' 'mutM']	True	True	False	False
+peak.5229	NotDB	['WT' 'mutM']	True	True	False	False
+peak.523	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5232	KGain	['WT' 'mutM']	True	True	False	False
+peak.5234	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5235	KGain	['WT' 'mutD']	True	False	True	False
+peak.5238	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5244	KGain	['WT' 'mutM']	True	True	False	False
+peak.5248	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.5249	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.5250	RetinalGene	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5261	KLost	['WT' 'mutM']	True	True	False	False
+peak.5262	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.527	KGain	['WT' 'mutM']	True	True	False	False
+peak.5288	NotDB	['WT' 'mutM']	True	True	False	False
+peak.529	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5290	KLost	['WT' 'mutM']	True	True	False	False
+peak.5314	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5318	KGain	['WT' 'mutM']	True	True	False	False
+peak.5321	ELost	['WT' 'mutM']	True	True	False	False
+peak.5334	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5345	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5351	KLost	['WT' 'mutM']	True	True	False	False
+peak.5355	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5356	KGain	['WT' 'mutM']	True	True	False	False
+peak.5369	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5380	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5390	KLost	['WT' 'mutM']	True	True	False	False
+peak.5394	ELost	['WT' 'mutM']	True	True	False	False
+peak.54	NotDB	['WT' 'mutM']	True	True	False	False
+peak.540	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5403	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5405	EGain	['WT' 'mutM']	True	True	False	False
+peak.5408	ELost	['WT' 'mutM']	True	True	False	False
+peak.5412	ELost	['WT' 'mutM']	True	True	False	False
+peak.5413	KLost	['WT' 'mutM']	True	True	False	False
+peak.5414	KLost	['WT' 'mutM']	True	True	False	False
+peak.5424	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5433	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5437	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5448	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5457	KLost	['WT' 'mutM']	True	True	False	False
+peak.5458	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5467	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5470	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.5471	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.5472	RetinalGene	['WT']	True	False	False	False
+peak.548	EGain	['WT' 'mutM']	True	True	False	False
+peak.5481	KLost	['WT' 'mutM']	True	True	False	False
+peak.5485	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5486	KGain	['WT' 'mutD']	True	False	True	False
+peak.5496	EGain	['WT' 'mutM']	True	True	False	False
+peak.5503	KLost	['WT' 'mutM']	True	True	False	False
+peak.551	KLost	['WT' 'mutM']	True	True	False	False
+peak.5515	KGain	['WT' 'mutM']	True	True	False	False
+peak.552	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5524	KLost	['WT']	True	False	False	False
+peak.5525	ELost	['WT' 'mutM']	True	True	False	False
+peak.5532	KLost	['WT' 'mutM']	True	True	False	False
+peak.554	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5542	KLost	['WT' 'mutM']	True	True	False	False
+peak.5549	EGain	['WT' 'mutM']	True	True	False	False
+peak.5552	ELost	['WT' 'mutM']	True	True	False	False
+peak.5555	NotDB	['WT']	True	False	False	False
+peak.5559	KLost	['WT' 'mutD']	True	False	True	False
+peak.556	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5562	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5566	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5572	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5575	KLost	['WT' 'mutM']	True	True	False	False
+peak.5584	EGain	['WT' 'mutM']	True	True	False	False
+peak.5594	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5601	KGain	['WT' 'mutM']	True	True	False	False
+peak.5602	KLost	['WT' 'mutM']	True	True	False	False
+peak.5606	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5607	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.561	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5612	KLost	['WT']	True	False	False	False
+peak.5632	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5650	KGain	['WT' 'mutM']	True	True	False	False
+peak.5652	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5655	EGain	['WT' 'mutM']	True	True	False	False
+peak.5659	EGain	['WT' 'mutM']	True	True	False	False
+peak.5664	EGain	['WT' 'mutM']	True	True	False	False
+peak.5671	ELost	['WT']	True	False	False	False
+peak.5682	KLost	['WT' 'mutM']	True	True	False	False
+peak.5693	ELost	['WT' 'mutM']	True	True	False	False
+peak.5694	ELost	['WT' 'mutM']	True	True	False	False
+peak.5695	EGain	['WT' 'mutM']	True	True	False	False
+peak.5698	ELost	['WT' 'mutM']	True	True	False	False
+peak.5702	KLost	['WT' 'mutM']	True	True	False	False
+peak.5706	KLost	['WT' 'mutM']	True	True	False	False
+peak.5707	KLost	['WT' 'mutM']	True	True	False	False
+peak.5729	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5732	KLost	['WT' 'mutM']	True	True	False	False
+peak.5733	KLost	['WT' 'mutM']	True	True	False	False
+peak.5741	KGain	['WT' 'mutM']	True	True	False	False
+peak.575	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5751	KGain	['WT' 'mutM']	True	True	False	False
+peak.5752	ELost	['WT']	True	False	False	False
+peak.5754	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5755	KGain	['WT' 'mutM']	True	True	False	False
+peak.5756	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5757	KLost	['WT' 'mutM']	True	True	False	False
+peak.5760	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5765	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5772	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5774	ELost	['WT' 'mutM']	True	True	False	False
+peak.5776	KLost	['WT' 'mutM']	True	True	False	False
+peak.5777	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5787	ELost	['WT' 'mutM']	True	True	False	False
+peak.5788	KLost	['WT' 'mutM']	True	True	False	False
+peak.5791	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5793	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5798	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5802	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5804	ELost	['WT' 'mutM']	True	True	False	False
+peak.5805	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.581	KGain	['WT' 'mutM']	True	True	False	False
+peak.5814	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5815	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5832	KLost	['WT' 'mutM']	True	True	False	False
+peak.5833	KLost	['WT' 'mutM']	True	True	False	False
+peak.5834	NotDB	['WT' 'mutM']	True	True	False	False
+peak.584	ELost	['WT' 'mutM']	True	True	False	False
+peak.5840	KGain	['WT' 'mutM']	True	True	False	False
+peak.5841	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5845	ELost	['WT' 'mutM']	True	True	False	False
+peak.5849	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5852	KLost	['WT' 'mutM']	True	True	False	False
+peak.5853	KLost	['WT']	True	False	False	False
+peak.5858	KLost	['WT' 'mutM']	True	True	False	False
+peak.5862	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5869	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5871	KLost	['WT' 'mutM']	True	True	False	False
+peak.5873	KLost	['WT' 'mutM']	True	True	False	False
+peak.5874	ELost	['WT' 'mutD']	True	False	True	False
+peak.5877	KLost	['WT' 'mutM']	True	True	False	False
+peak.5878	KGain	['WT' 'mutM']	True	True	False	False
+peak.5879	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5881	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5887	KGain	['WT' 'mutM']	True	True	False	False
+peak.5891	EGain	['WT' 'mutM']	True	True	False	False
+peak.5892	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5906	ELost	['WT' 'mutM']	True	True	False	False
+peak.5909	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5919	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5920	NotDB	['WT' 'mutM']	True	True	False	False
+peak.5923	KLost	['WT' 'mutM']	True	True	False	False
+peak.5933	KLost	['WT' 'mutM']	True	True	False	False
+peak.5947	EGain	['WT' 'mutM']	True	True	False	False
+peak.5948	NotDB	['WT']	True	False	False	False
+peak.5959	NotDB	['WT']	True	False	False	False
+peak.5966	ELost	['WT' 'mutM']	True	True	False	False
+peak.5969	KLost	['WT' 'mutM']	True	True	False	False
+peak.5981	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.5982	KLost	['WT' 'mutM']	True	True	False	False
+peak.5987	KLost	['WT' 'mutM']	True	True	False	False
+peak.6000	ELost	['WT' 'mutD']	True	False	True	False
+peak.6005	KLost	['WT' 'mutM']	True	True	False	False
+peak.601	KLost	['WT']	True	False	False	False
+peak.6011	KLost	['WT' 'mutM']	True	True	False	False
+peak.6014	KGain	['WT' 'mutM']	True	True	False	False
+peak.6015	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6016	ELost	['WT' 'mutM']	True	True	False	False
+peak.6018	NotDB	['WT']	True	False	False	False
+peak.6019	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6023	KGain	['WT' 'mutM']	True	True	False	False
+peak.6026	ELost	['WT' 'mutM']	True	True	False	False
+peak.6030	KGain	['WT' 'mutM']	True	True	False	False
+peak.6040	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6045	KGain	['WT' 'mutM']	True	True	False	False
+peak.6048	KGain	['WT' 'mutM']	True	True	False	False
+peak.6049	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6053	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6054	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6063	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6070	KLost	['WT' 'mutM']	True	True	False	False
+peak.6075	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6077	KLost	['WT' 'mutM']	True	True	False	False
+peak.608	EGain	['WT' 'mutM']	True	True	False	False
+peak.6086	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6088	KLost	['WT' 'mutM']	True	True	False	False
+peak.6092	KLost	['WT' 'mutM']	True	True	False	False
+peak.6095	EGain	['WT' 'mutM']	True	True	False	False
+peak.6096	KGain	['WT' 'mutM']	True	True	False	False
+peak.6099	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.610	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6101	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6104	KGain	['WT' 'mutM']	True	True	False	False
+peak.6105	EGain	['WT' 'mutM']	True	True	False	False
+peak.611	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6111	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6120	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6129	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6130	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6136	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6138	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6144	ELost	['WT' 'mutM']	True	True	False	False
+peak.6150	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6157	KGain	['WT' 'mutM']	True	True	False	False
+peak.6166	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6171	ELost	['WT' 'mutM']	True	True	False	False
+peak.6175	NotDB	['WT']	True	False	False	False
+peak.6177	KLost	['WT' 'mutM']	True	True	False	False
+peak.6179	KLost	['WT' 'mutM']	True	True	False	False
+peak.6183	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6184	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6187	KGain	['WT' 'mutD']	True	False	True	False
+peak.6188	EGain	['WT' 'mutM']	True	True	False	False
+peak.6189	KGain	['WT' 'mutM']	True	True	False	False
+peak.6196	KGain	['WT' 'mutM']	True	True	False	False
+peak.620	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6216	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6217	KLost	['WT' 'mutM']	True	True	False	False
+peak.6222	ELost	['WT']	True	False	False	False
+peak.6226	KLost	['WT' 'mutM']	True	True	False	False
+peak.6232	KLost	['WT' 'mutM']	True	True	False	False
+peak.6236	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6239	EGain	['WT' 'mutM']	True	True	False	False
+peak.6244	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6247	EGain	['WT' 'mutM']	True	True	False	False
+peak.6256	KLost	['WT' 'mutM']	True	True	False	False
+peak.6257	KLost	['WT']	True	False	False	False
+peak.626	ELost	['WT' 'mutM']	True	True	False	False
+peak.6262	KLost	['WT' 'mutM']	True	True	False	False
+peak.6271	KLost	['WT' 'mutM']	True	True	False	False
+peak.6275	KLost	['WT' 'mutM']	True	True	False	False
+peak.6276	EGain	['WT' 'mutM']	True	True	False	False
+peak.6279	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6282	ELost	['WT' 'mutM']	True	True	False	False
+peak.6294	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6298	KLost	['WT' 'mutM']	True	True	False	False
+peak.6308	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6310	KGain	['WT' 'mutM']	True	True	False	False
+peak.6314	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6316	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6318	ELost	['WT']	True	False	False	False
+peak.6320	ELost	['WT' 'mutM']	True	True	False	False
+peak.6321	KLost	['WT' 'mutM']	True	True	False	False
+peak.6328	ELost	['WT' 'mutM']	True	True	False	False
+peak.6329	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.633	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6345	KLost	['WT' 'mutM']	True	True	False	False
+peak.6357	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6360	KLost	['WT' 'mutM']	True	True	False	False
+peak.6363	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6364	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6371	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6376	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6388	ELost	['WT' 'mutM']	True	True	False	False
+peak.6393	KLost	['WT' 'mutM']	True	True	False	False
+peak.6394	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6395	KLost	['WT' 'mutM']	True	True	False	False
+peak.6401	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6402	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6403	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.641	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6414	EGain	['WT' 'mutM']	True	True	False	False
+peak.6424	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6439	EGain	['WT' 'mutM']	True	True	False	False
+peak.6440	EGain	['WT' 'mutM']	True	True	False	False
+peak.6441	EGain	['WT' 'mutM']	True	True	False	False
+peak.6442	EGain	['WT' 'mutM']	True	True	False	False
+peak.6449	KLost	['WT' 'mutM']	True	True	False	False
+peak.6458	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6461	KLost	['WT' 'mutM']	True	True	False	False
+peak.6464	ELost	['WT' 'mutM']	True	True	False	False
+peak.6465	ELost	['WT' 'mutM']	True	True	False	False
+peak.6466	ELost	['WT' 'mutM']	True	True	False	False
+peak.6469	KLost	['WT' 'mutM']	True	True	False	False
+peak.6470	EGain	['WT']	True	False	False	False
+peak.6473	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6474	KGain	['WT' 'mutM']	True	True	False	False
+peak.6478	KLost	['WT' 'mutM']	True	True	False	False
+peak.6479	KLost	['WT' 'mutM']	True	True	False	False
+peak.6480	ELost	['WT' 'mutM']	True	True	False	False
+peak.6483	KLost	['WT' 'mutM']	True	True	False	False
+peak.6485	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6490	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6497	KGain	['WT' 'mutM']	True	True	False	False
+peak.6506	ELost	['WT']	True	False	False	False
+peak.6507	ELost	['WT']	True	False	False	False
+peak.6511	KLost	['WT' 'mutM']	True	True	False	False
+peak.6517	KGain	['WT' 'mutM']	True	True	False	False
+peak.6519	ELost	['WT']	True	False	False	False
+peak.6528	KGain	['WT' 'mutM']	True	True	False	False
+peak.6530	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6541	KLost	['WT' 'mutM']	True	True	False	False
+peak.6543	KLost	['WT' 'mutM']	True	True	False	False
+peak.6546	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6554	EGain	['WT' 'mutM']	True	True	False	False
+peak.6561	KGain	['WT' 'mutM']	True	True	False	False
+peak.6565	KLost	['WT' 'mutM']	True	True	False	False
+peak.6572	EGain	['WT' 'mutM']	True	True	False	False
+peak.6576	KLost	['WT' 'mutM']	True	True	False	False
+peak.6578	KLost	['WT' 'mutM']	True	True	False	False
+peak.6581	NotDB	['WT']	True	False	False	False
+peak.6596	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6597	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6598	KLost	['WT' 'mutM']	True	True	False	False
+peak.6607	KLost	['WT' 'mutM']	True	True	False	False
+peak.6611	KLost	['WT' 'mutM']	True	True	False	False
+peak.6614	EGain	['WT' 'mutM']	True	True	False	False
+peak.6631	ELost	['WT' 'mutM']	True	True	False	False
+peak.6635	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6645	KLost	['WT']	True	False	False	False
+peak.665	EGain	['WT' 'mutM']	True	True	False	False
+peak.6654	EGain	['WT' 'mutM']	True	True	False	False
+peak.666	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6661	KGain	['WT' 'mutM']	True	True	False	False
+peak.6668	KGain	['WT' 'mutM']	True	True	False	False
+peak.6671	KLost	['WT' 'mutM']	True	True	False	False
+peak.6676	KGain	['WT' 'mutM']	True	True	False	False
+peak.6679	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.668	ELost	['WT' 'mutM']	True	True	False	False
+peak.6689	ELost	['WT' 'mutM']	True	True	False	False
+peak.6706	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6709	EGain	['WT' 'mutM']	True	True	False	False
+peak.672	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6727	KLost	['WT' 'mutM']	True	True	False	False
+peak.6732	ELost	['WT' 'mutM']	True	True	False	False
+peak.6734	KLost	['WT' 'mutM']	True	True	False	False
+peak.6736	KLost	['WT' 'mutM']	True	True	False	False
+peak.6743	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6755	KLost	['WT']	True	False	False	False
+peak.676	KLost	['WT' 'mutM']	True	True	False	False
+peak.6768	KLost	['WT' 'mutM']	True	True	False	False
+peak.677	KLost	['WT' 'mutM']	True	True	False	False
+peak.6773	NotDB	['WT' 'mutM']	True	True	False	False
+peak.679	KGain	['WT' 'mutM']	True	True	False	False
+peak.6794	EGain	['WT' 'mutM']	True	True	False	False
+peak.680	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6812	ELost	['WT' 'mutM']	True	True	False	False
+peak.6820	KLost	['WT' 'mutM']	True	True	False	False
+peak.683	KGain	['WT' 'mutM']	True	True	False	False
+peak.6830	KGain	['WT' 'mutM']	True	True	False	False
+peak.6834	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6837	KLost	['WT' 'mutM']	True	True	False	False
+peak.6840	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6847	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6853	ELost	['WT' 'mutD']	True	False	True	False
+peak.6876	EGain	['WT' 'mutM']	True	True	False	False
+peak.6878	RetinalGene	['WT']	True	False	False	False
+peak.688	KGain	['WT' 'mutM']	True	True	False	False
+peak.6888	KLost	['WT' 'mutM']	True	True	False	False
+peak.6895	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6898	KLost	['WT' 'mutM']	True	True	False	False
+peak.6902	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.691	ELost	['WT' 'mutM']	True	True	False	False
+peak.692	KGain	['WT' 'mutM']	True	True	False	False
+peak.6936	KGain	['WT' 'mutM']	True	True	False	False
+peak.695	EGain	['WT' 'mutM']	True	True	False	False
+peak.6955	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6957	EGain	['WT' 'mutM']	True	True	False	False
+peak.6960	KLost	['WT' 'mutM']	True	True	False	False
+peak.6962	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6964	ELost	['WT' 'mutM']	True	True	False	False
+peak.6969	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.697	KLost	['WT' 'mutM']	True	True	False	False
+peak.6970	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6972	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.6978	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6992	NotDB	['WT' 'mutM']	True	True	False	False
+peak.6999	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7	EGain	['WT' 'mutM']	True	True	False	False
+peak.700	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7005	KLost	['WT' 'mutM']	True	True	False	False
+peak.7019	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7022	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7025	KLost	['WT']	True	False	False	False
+peak.7028	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.703	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7034	NotDB	['WT']	True	False	False	False
+peak.7044	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7046	KLost	['WT' 'mutM']	True	True	False	False
+peak.7049	EGain	['WT' 'mutM']	True	True	False	False
+peak.7065	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7070	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7073	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7074	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7085	EGain	['WT' 'mutM']	True	True	False	False
+peak.7086	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7087	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7088	KLost	['WT' 'mutD']	True	False	True	False
+peak.7091	EGain	['WT']	True	False	False	False
+peak.7096	ELost	['WT' 'mutM']	True	True	False	False
+peak.7106	KLost	['WT' 'mutM']	True	True	False	False
+peak.7113	ELost	['WT' 'mutD']	True	False	True	False
+peak.7117	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7126	ELost	['WT']	True	False	False	False
+peak.7131	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7133	KGain	['WT']	True	False	False	False
+peak.7134	KGain	['WT' 'mutM']	True	True	False	False
+peak.7138	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.714	KLost	['WT' 'mutM']	True	True	False	False
+peak.7141	KLost	['WT' 'mutM']	True	True	False	False
+peak.7142	ELost	['WT' 'mutM']	True	True	False	False
+peak.7143	KLost	['WT' 'mutM']	True	True	False	False
+peak.7147	KLost	['WT' 'mutM']	True	True	False	False
+peak.7148	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7155	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7162	EGain	['WT' 'mutM']	True	True	False	False
+peak.7163	ELost	['WT']	True	False	False	False
+peak.717	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7171	ELost	['WT' 'mutM']	True	True	False	False
+peak.7201	EGain	['WT' 'mutM']	True	True	False	False
+peak.7204	ELost	['WT' 'mutM']	True	True	False	False
+peak.7206	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7207	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7217	NotDB	['WT' 'mutM']	True	True	False	False
+peak.723	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7243	EGain	['WT' 'mutM']	True	True	False	False
+peak.7250	ELost	['WT' 'mutD']	True	False	True	False
+peak.7251	KGain	['WT' 'mutM']	True	True	False	False
+peak.7252	KGain	['WT' 'mutM']	True	True	False	False
+peak.7253	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7265	KLost	['WT' 'mutM']	True	True	False	False
+peak.7277	EGain	['WT' 'mutM']	True	True	False	False
+peak.7281	KGain	['WT' 'mutM']	True	True	False	False
+peak.7312	KLost	['WT' 'mutM']	True	True	False	False
+peak.7315	NotDB	['WT']	True	False	False	False
+peak.7319	KLost	['WT' 'mutM']	True	True	False	False
+peak.7339	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7342	KLost	['WT' 'mutM']	True	True	False	False
+peak.7351	KLost	['WT' 'mutM']	True	True	False	False
+peak.7357	ELost	['WT' 'mutD']	True	False	True	False
+peak.7364	EGain	['WT']	True	False	False	False
+peak.7368	ELost	['WT' 'mutM']	True	True	False	False
+peak.7371	EGain	['WT' 'mutM']	True	True	False	False
+peak.7377	EGain	['WT' 'mutM']	True	True	False	False
+peak.7378	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.738	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.739	ELost	['WT' 'mutM']	True	True	False	False
+peak.7409	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7418	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.742	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7422	KGain	['WT' 'mutD']	True	False	True	False
+peak.7424	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7429	KGain	['WT' 'mutM']	True	True	False	False
+peak.7433	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7437	KGain	['WT' 'mutM']	True	True	False	False
+peak.7440	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7443	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7445	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7450	ELost	['WT' 'mutM']	True	True	False	False
+peak.7452	KGain	['WT' 'mutM']	True	True	False	False
+peak.7454	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7456	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7459	KLost	['WT']	True	False	False	False
+peak.7462	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7463	NotDB	['WT']	True	False	False	False
+peak.7466	KGain	['WT' 'mutM']	True	True	False	False
+peak.7473	KLost	['WT' 'mutM']	True	True	False	False
+peak.7474	ELost	['WT' 'mutM']	True	True	False	False
+peak.7493	KLost	['WT' 'mutM']	True	True	False	False
+peak.7503	EGain	['WT' 'mutM']	True	True	False	False
+peak.7507	KGain	['WT' 'mutM']	True	True	False	False
+peak.7509	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.751	NotDB	['WT']	True	False	False	False
+peak.7511	ELost	['WT' 'mutM']	True	True	False	False
+peak.7514	KGain	['WT' 'mutD']	True	False	True	False
+peak.7520	KLost	['WT' 'mutM']	True	True	False	False
+peak.7530	KLost	['WT' 'mutM']	True	True	False	False
+peak.7532	KGain	['WT' 'mutM']	True	True	False	False
+peak.7538	KGain	['WT' 'mutM']	True	True	False	False
+peak.7539	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7541	ELost	['WT' 'mutM']	True	True	False	False
+peak.7544	KLost	['WT' 'mutM']	True	True	False	False
+peak.7545	NotDB	['WT' 'mutM']	True	True	False	False
+peak.755	ELost	['WT' 'mutM']	True	True	False	False
+peak.7553	KLost	['WT' 'mutM']	True	True	False	False
+peak.7557	EGain	['WT' 'mutM']	True	True	False	False
+peak.7561	EGain	['WT' 'mutM']	True	True	False	False
+peak.7563	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7571	NotDB	['WT']	True	False	False	False
+peak.7575	EGain	['WT' 'mutM']	True	True	False	False
+peak.7580	KGain	['WT' 'mutM']	True	True	False	False
+peak.7587	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7591	KLost	['WT' 'mutM']	True	True	False	False
+peak.7598	EGain	['WT' 'mutM']	True	True	False	False
+peak.7604	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7610	KLost	['WT' 'mutM']	True	True	False	False
+peak.7613	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.7614	RetinalGene	['WT']	True	False	False	False
+peak.7615	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.7619	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7634	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7637	KGain	['WT' 'mutM']	True	True	False	False
+peak.7640	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7649	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7654	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.7655	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.7656	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.7657	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.7658	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.766	KGain	['WT' 'mutM']	True	True	False	False
+peak.7667	KLost	['WT' 'mutM']	True	True	False	False
+peak.7669	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7672	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7691	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.7692	RetinalGene	['WT']	True	False	False	False
+peak.7693	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.7694	KLost	['WT']	True	False	False	False
+peak.7705	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7708	KLost	['WT' 'mutM']	True	True	False	False
+peak.7717	EGain	['WT' 'mutM']	True	True	False	False
+peak.7721	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7731	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7733	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7734	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7736	KLost	['WT' 'mutM']	True	True	False	False
+peak.7738	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7740	KLost	['WT']	True	False	False	False
+peak.7744	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7747	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7748	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7756	KLost	['WT' 'mutM']	True	True	False	False
+peak.7758	EGain	['WT' 'mutM']	True	True	False	False
+peak.7763	KLost	['WT']	True	False	False	False
+peak.7767	KLost	['WT' 'mutM']	True	True	False	False
+peak.7777	KLost	['WT' 'mutM']	True	True	False	False
+peak.7782	KLost	['WT' 'mutM']	True	True	False	False
+peak.7784	ELost	['WT']	True	False	False	False
+peak.7789	ELost	['WT' 'mutM']	True	True	False	False
+peak.7791	KLost	['WT']	True	False	False	False
+peak.7799	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.78	KLost	['WT' 'mutM']	True	True	False	False
+peak.7804	NotDB	['WT']	True	False	False	False
+peak.7809	KLost	['WT' 'mutM']	True	True	False	False
+peak.7811	ELost	['WT' 'mutD']	True	False	True	False
+peak.7822	NotDB	['WT']	True	False	False	False
+peak.7826	EGain	['WT' 'mutM']	True	True	False	False
+peak.7830	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7853	KLost	['WT']	True	False	False	False
+peak.7855	NotDB	['WT']	True	False	False	False
+peak.7857	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7859	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7860	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7863	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7864	KLost	['WT' 'mutM']	True	True	False	False
+peak.7867	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7870	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7873	KGain	['WT' 'mutM']	True	True	False	False
+peak.7874	KGain	['WT' 'mutM']	True	True	False	False
+peak.7877	ELost	['WT' 'mutM']	True	True	False	False
+peak.7878	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7893	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7898	KGain	['WT' 'mutM']	True	True	False	False
+peak.7899	NotDB	['WT' 'mutM']	True	True	False	False
+peak.790	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7901	KLost	['WT' 'mutM']	True	True	False	False
+peak.7917	KLost	['WT' 'mutM']	True	True	False	False
+peak.7927	KLost	['WT']	True	False	False	False
+peak.7934	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7940	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7942	KLost	['WT' 'mutM']	True	True	False	False
+peak.7947	NotDB	['WT' 'mutM']	True	True	False	False
+peak.7953	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.7959	KLost	['WT' 'mutM']	True	True	False	False
+peak.796	KLost	['WT' 'mutM']	True	True	False	False
+peak.7960	ELost	['WT']	True	False	False	False
+peak.7978	KLost	['WT' 'mutM']	True	True	False	False
+peak.7989	KLost	['WT' 'mutM']	True	True	False	False
+peak.799	KGain	['WT']	True	False	False	False
+peak.8	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8003	EGain	['WT' 'mutM']	True	True	False	False
+peak.8012	KLost	['WT' 'mutM']	True	True	False	False
+peak.8020	KLost	['WT' 'mutM']	True	True	False	False
+peak.8029	KLost	['WT' 'mutM']	True	True	False	False
+peak.8041	NotDB	['WT']	True	False	False	False
+peak.8045	KLost	['WT']	True	False	False	False
+peak.8047	KLost	['WT']	True	False	False	False
+peak.805	KGain	['WT' 'mutM']	True	True	False	False
+peak.8056	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8057	KLost	['WT' 'mutM']	True	True	False	False
+peak.8058	ELost	['WT' 'mutM']	True	True	False	False
+peak.8068	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8073	NotDB	['WT']	True	False	False	False
+peak.8074	KLost	['WT']	True	False	False	False
+peak.8082	KLost	['WT' 'mutM']	True	True	False	False
+peak.8088	EGain	['WT' 'mutM']	True	True	False	False
+peak.81	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8100	ELost	['WT' 'mutM']	True	True	False	False
+peak.8110	KGain	['WT' 'mutM']	True	True	False	False
+peak.8113	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8116	KLost	['WT']	True	False	False	False
+peak.8132	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8139	ELost	['WT']	True	False	False	False
+peak.8148	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8154	ELost	['WT' 'mutM']	True	True	False	False
+peak.8167	KLost	['WT' 'mutM']	True	True	False	False
+peak.8169	ELost	['WT' 'mutM']	True	True	False	False
+peak.8175	EGain	['WT' 'mutM']	True	True	False	False
+peak.8177	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8179	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.818	EGain	['WT' 'mutM']	True	True	False	False
+peak.8186	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8190	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8196	ELost	['WT' 'mutM']	True	True	False	False
+peak.820	ELost	['WT' 'mutD']	True	False	True	False
+peak.8203	ELost	['WT' 'mutM']	True	True	False	False
+peak.8216	EGain	['WT' 'mutM']	True	True	False	False
+peak.8224	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8232	KLost	['WT' 'mutD']	True	False	True	False
+peak.8234	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8245	KLost	['WT' 'mutM']	True	True	False	False
+peak.8247	KLost	['WT' 'mutM']	True	True	False	False
+peak.8251	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8254	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8259	NotDB	['WT' 'mutM']	True	True	False	False
+peak.826	ELost	['WT' 'mutM']	True	True	False	False
+peak.8260	KLost	['WT' 'mutM']	True	True	False	False
+peak.8263	ELost	['WT']	True	False	False	False
+peak.8264	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8269	NotDB	['WT' 'mutM']	True	True	False	False
+peak.827	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8272	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.828	KLost	['WT' 'mutD']	True	False	True	False
+peak.8282	KLost	['WT' 'mutM']	True	True	False	False
+peak.8283	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8290	KLost	['WT']	True	False	False	False
+peak.8294	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8295	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8296	NotDB	['WT' 'mutM']	True	True	False	False
+peak.83	NotDB	['WT' 'mutM']	True	True	False	False
+peak.830	KLost	['WT' 'mutM']	True	True	False	False
+peak.8305	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8311	KLost	['WT' 'mutM']	True	True	False	False
+peak.8334	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8346	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8361	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8364	KLost	['WT' 'mutM']	True	True	False	False
+peak.8366	EGain	['WT' 'mutM']	True	True	False	False
+peak.8371	EGain	['WT' 'mutM']	True	True	False	False
+peak.8376	KLost	['WT' 'mutM']	True	True	False	False
+peak.8379	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8387	KLost	['WT' 'mutM']	True	True	False	False
+peak.8388	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8390	EGain	['WT' 'mutM']	True	True	False	False
+peak.8401	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8420	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8421	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8426	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.843	KLost	['WT' 'mutM']	True	True	False	False
+peak.8435	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8438	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8448	KGain	['WT']	True	False	False	False
+peak.8454	EGain	['WT' 'mutM']	True	True	False	False
+peak.8456	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8459	KLost	['WT' 'mutM']	True	True	False	False
+peak.846	ELost	['WT' 'mutM']	True	True	False	False
+peak.8462	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8463	KLost	['WT']	True	False	False	False
+peak.8465	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8467	KGain	['WT' 'mutM']	True	True	False	False
+peak.8473	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8475	KLost	['WT']	True	False	False	False
+peak.8476	NotDB	['WT' 'mutM']	True	True	False	False
+peak.848	EGain	['WT' 'mutM']	True	True	False	False
+peak.8480	KLost	['WT']	True	False	False	False
+peak.8481	KLost	['WT' 'mutM']	True	True	False	False
+peak.8484	EGain	['WT' 'mutM']	True	True	False	False
+peak.8485	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8487	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8496	KLost	['WT' 'mutM']	True	True	False	False
+peak.85	EGain	['WT' 'mutM']	True	True	False	False
+peak.850	ELost	['WT' 'mutM']	True	True	False	False
+peak.851	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8518	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8519	KLost	['WT' 'mutM']	True	True	False	False
+peak.852	ELost	['WT']	True	False	False	False
+peak.8526	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8527	KLost	['WT' 'mutM']	True	True	False	False
+peak.8529	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8533	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8536	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8537	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8544	KLost	['WT' 'mutM']	True	True	False	False
+peak.8545	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8549	KLost	['WT' 'mutM']	True	True	False	False
+peak.8557	ELost	['WT' 'mutD']	True	False	True	False
+peak.8559	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8572	KLost	['WT' 'mutM']	True	True	False	False
+peak.8573	KLost	['WT' 'mutM']	True	True	False	False
+peak.8577	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8578	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.859	NotDB	['WT']	True	False	False	False
+peak.8595	EGain	['WT' 'mutM']	True	True	False	False
+peak.8596	KGain	['WT' 'mutM']	True	True	False	False
+peak.8598	EGain	['WT' 'mutM']	True	True	False	False
+peak.8601	EGain	['WT' 'mutM']	True	True	False	False
+peak.8604	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8605	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8606	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.861	NotDB	['WT']	True	False	False	False
+peak.8628	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8631	EGain	['WT' 'mutM']	True	True	False	False
+peak.8644	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.865	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8651	EGain	['WT' 'mutM']	True	True	False	False
+peak.8655	ELost	['WT' 'mutM']	True	True	False	False
+peak.8656	ELost	['WT' 'mutM']	True	True	False	False
+peak.8657	KLost	['WT' 'mutM']	True	True	False	False
+peak.8661	KGain	['WT' 'mutM']	True	True	False	False
+peak.8664	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.867	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8679	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8680	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8683	ELost	['WT' 'mutM']	True	True	False	False
+peak.8689	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8693	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8694	ELost	['WT']	True	False	False	False
+peak.8699	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8702	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8705	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8706	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8716	EGain	['WT' 'mutM']	True	True	False	False
+peak.8723	KLost	['WT' 'mutM']	True	True	False	False
+peak.8725	KLost	['WT' 'mutM']	True	True	False	False
+peak.8727	EGain	['WT' 'mutM']	True	True	False	False
+peak.873	KLost	['WT' 'mutM']	True	True	False	False
+peak.8736	EGain	['WT' 'mutM']	True	True	False	False
+peak.8737	NotDB	['WT' 'mutD']	True	False	True	False
+peak.8754	KLost	['WT' 'mutM']	True	True	False	False
+peak.8757	KLost	['WT']	True	False	False	False
+peak.8758	KLost	['WT' 'mutM']	True	True	False	False
+peak.8759	EGain	['WT' 'mutM']	True	True	False	False
+peak.8768	KGain	['WT' 'mutM']	True	True	False	False
+peak.8771	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8776	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8777	ELost	['WT' 'mutM']	True	True	False	False
+peak.8778	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8792	KLost	['WT' 'mutM']	True	True	False	False
+peak.8825	EGain	['WT' 'mutM']	True	True	False	False
+peak.8829	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8831	EGain	['WT' 'mutM']	True	True	False	False
+peak.8837	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8842	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8846	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8848	KLost	['WT' 'mutM']	True	True	False	False
+peak.8849	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8856	KLost	['WT']	True	False	False	False
+peak.8863	KLost	['WT']	True	False	False	False
+peak.8865	KGain	['WT' 'mutM']	True	True	False	False
+peak.8875	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8880	KGain	['WT' 'mutM']	True	True	False	False
+peak.8881	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8895	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8897	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8899	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8903	KLost	['WT' 'mutM']	True	True	False	False
+peak.8905	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.891	KLost	['WT']	True	False	False	False
+peak.8912	KGain	['WT']	True	False	False	False
+peak.8915	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8918	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8922	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8927	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8934	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8955	ELost	['WT']	True	False	False	False
+peak.8960	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8966	KGain	['WT' 'mutM']	True	True	False	False
+peak.8967	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8968	KGain	['WT' 'mutM']	True	True	False	False
+peak.897	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8977	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.8986	NotDB	['WT' 'mutM']	True	True	False	False
+peak.8993	EGain	['WT' 'mutM']	True	True	False	False
+peak.8997	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9000	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9002	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9004	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9007	KLost	['WT']	True	False	False	False
+peak.901	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9010	EGain	['WT' 'mutM']	True	True	False	False
+peak.9011	EGain	['WT' 'mutM']	True	True	False	False
+peak.9024	KLost	['WT' 'mutM']	True	True	False	False
+peak.9037	KLost	['WT' 'mutM']	True	True	False	False
+peak.9061	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9063	KLost	['WT' 'mutM']	True	True	False	False
+peak.9065	KLost	['WT' 'mutM']	True	True	False	False
+peak.908	KLost	['WT' 'mutM']	True	True	False	False
+peak.9082	EGain	['WT' 'mutM']	True	True	False	False
+peak.9086	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9087	KLost	['WT' 'mutM']	True	True	False	False
+peak.9089	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9099	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9101	KLost	['WT' 'mutM']	True	True	False	False
+peak.9106	KLost	['WT' 'mutM']	True	True	False	False
+peak.9110	KGain	['WT' 'mutM']	True	True	False	False
+peak.9111	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9112	EGain	['WT' 'mutM']	True	True	False	False
+peak.9143	ELost	['WT' 'mutM']	True	True	False	False
+peak.9151	ELost	['WT' 'mutM']	True	True	False	False
+peak.9154	KLost	['WT' 'mutM']	True	True	False	False
+peak.9159	KLost	['WT' 'mutM']	True	True	False	False
+peak.916	KLost	['WT' 'mutM']	True	True	False	False
+peak.9162	EGain	['WT' 'mutM']	True	True	False	False
+peak.9163	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9174	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9178	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9179	KGain	['WT' 'mutM']	True	True	False	False
+peak.9184	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9193	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9204	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9206	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.921	ELost	['WT' 'mutM']	True	True	False	False
+peak.9212	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9215	KLost	['WT' 'mutM']	True	True	False	False
+peak.9226	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9235	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9236	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9237	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9243	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9245	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9248	KLost	['WT']	True	False	False	False
+peak.9254	EGain	['WT' 'mutM']	True	True	False	False
+peak.9255	KGain	['WT' 'mutD']	True	False	True	False
+peak.9256	KLost	['WT' 'mutM']	True	True	False	False
+peak.9258	KLost	['WT' 'mutM']	True	True	False	False
+peak.926	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9261	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9262	ELost	['WT' 'mutM']	True	True	False	False
+peak.9272	KLost	['WT' 'mutM']	True	True	False	False
+peak.9278	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9279	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9286	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9288	ELost	['WT']	True	False	False	False
+peak.9289	ELost	['WT' 'mutM']	True	True	False	False
+peak.9290	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9293	KLost	['WT' 'mutM']	True	True	False	False
+peak.9294	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9297	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9302	EGain	['WT' 'mutM']	True	True	False	False
+peak.9305	EGain	['WT' 'mutM']	True	True	False	False
+peak.9312	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9314	ELost	['WT' 'mutM']	True	True	False	False
+peak.9316	ELost	['WT' 'mutM']	True	True	False	False
+peak.9318	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.932	KLost	['WT' 'mutM']	True	True	False	False
+peak.9320	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9326	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9327	EGain	['WT' 'mutM']	True	True	False	False
+peak.933	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9341	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9343	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9344	KLost	['WT' 'mutM']	True	True	False	False
+peak.935	ELost	['WT' 'mutM']	True	True	False	False
+peak.9350	KLost	['WT' 'mutM']	True	True	False	False
+peak.9351	KLost	['WT' 'mutM']	True	True	False	False
+peak.9356	KLost	['WT' 'mutM']	True	True	False	False
+peak.937	KLost	['WT' 'mutM']	True	True	False	False
+peak.9370	KLost	['WT' 'mutM']	True	True	False	False
+peak.9378	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9384	EGain	['WT']	True	False	False	False
+peak.9387	KGain	['WT' 'mutM']	True	True	False	False
+peak.9389	KGain	['WT' 'mutM']	True	True	False	False
+peak.9392	KGain	['WT' 'mutM']	True	True	False	False
+peak.9410	EGain	['WT' 'mutM']	True	True	False	False
+peak.9421	EGain	['WT' 'mutM']	True	True	False	False
+peak.9441	KLost	['WT' 'mutM']	True	True	False	False
+peak.9443	KLost	['WT' 'mutM']	True	True	False	False
+peak.9451	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9461	ELost	['WT' 'mutD']	True	False	True	False
+peak.9467	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9469	ELost	['WT' 'mutD']	True	False	True	False
+peak.9470	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9472	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9476	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9478	KLost	['WT' 'mutM']	True	True	False	False
+peak.9479	KLost	['WT' 'mutM']	True	True	False	False
+peak.9482	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9484	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9486	KLost	['WT' 'mutM']	True	True	False	False
+peak.9489	KGain	['WT' 'mutM']	True	True	False	False
+peak.949	EGain	['WT' 'mutM']	True	True	False	False
+peak.9492	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9493	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9494	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9495	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9496	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9501	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9503	ELost	['WT' 'mutM']	True	True	False	False
+peak.9522	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9524	EGain	['WT']	True	False	False	False
+peak.9534	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9538	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9543	ELost	['WT' 'mutM']	True	True	False	False
+peak.9545	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9553	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.956	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9562	KGain	['WT' 'mutD']	True	False	True	False
+peak.9563	KGain	['WT' 'mutD']	True	False	True	False
+peak.9566	KLost	['WT' 'mutM']	True	True	False	False
+peak.9574	KLost	['WT' 'mutM']	True	True	False	False
+peak.9577	NotDB	['WT']	True	False	False	False
+peak.9579	EGain	['WT' 'mutM']	True	True	False	False
+peak.9580	EGain	['WT' 'mutM']	True	True	False	False
+peak.9581	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9583	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9586	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9611	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9614	KLost	['WT' 'mutM']	True	True	False	False
+peak.9615	ELost	['WT' 'mutD']	True	False	True	False
+peak.9616	ELost	['WT']	True	False	False	False
+peak.9634	ELost	['WT' 'mutM']	True	True	False	False
+peak.9647	ELost	['WT' 'mutM']	True	True	False	False
+peak.9648	KLost	['WT' 'mutM']	True	True	False	False
+peak.9650	KLost	['WT' 'mutM']	True	True	False	False
+peak.9652	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9658	EGain	['WT' 'mutM']	True	True	False	False
+peak.9661	KLost	['WT']	True	False	False	False
+peak.9667	KLost	['WT' 'mutM']	True	True	False	False
+peak.9672	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9674	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9681	KLost	['WT' 'mutM']	True	True	False	False
+peak.9697	ELost	['WT' 'mutM']	True	True	False	False
+peak.9700	EGain	['WT' 'mutM']	True	True	False	False
+peak.9701	KLost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9707	KLost	['WT' 'mutM']	True	True	False	False
+peak.971	ELost	['WT' 'mutM']	True	True	False	False
+peak.9710	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9712	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9715	ELost	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9718	KLost	['WT' 'mutM']	True	True	False	False
+peak.9719	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.972	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9731	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9742	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9744	EGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9747	KLost	['WT' 'mutM']	True	True	False	False
+peak.9753	NotDB	['WT']	True	False	False	False
+peak.9755	NotDB	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9764	KLost	['WT' 'mutD']	True	False	True	False
+peak.9774	ELost	['WT' 'mutM']	True	True	False	False
+peak.9778	KLost	['WT' 'mutM']	True	True	False	False
+peak.9781	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9783	RetinalGene	['WT' 'mutM']	True	True	False	False
+peak.9785	NotDB	['WT' 'mutM']	True	True	False	False
+peak.9787	ELost	['WT' 'mutD']	True	False	True	False
+peak.9803	KLost	['WT' 'mutM']	True	True	False	False
+peak.9805	KGain	['WT' 'mutM']	True	True	False	False
+peak.9809	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9810	KGain	['WT' 'mutD' 'mutDM' 'mutM']	True	True	True	True
+peak.9816	KLost	['WT' 'mutM']	True	True	False	False
+peak.9817	NotDB	['WT' 'mutM']	True	True	False	False
+peak.982	ELost	['WT']	True	False	False	False
+peak.9828	ELost	['WT' 'mutD']	True	False	True	False
+peak.989	KGain	['WT' 'mutM']	True	True	False	False
+peak.998	KLost	['WT' 'mutM']	True	True	False	False
