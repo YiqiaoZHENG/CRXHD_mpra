@@ -15,7 +15,7 @@ This directory contains all scripts and metadata information used to design the 
 - `mpra_seqcompiler.ipynb` compiles different categories of testing sequences, drop sequences with restriction enzyme cut site matches, and performs basic QC metrics of the final testing sequences.
 - `mpra_finalCheck.ipynb` performs a comprehensive final check of all design sequences to be submitted for synthesis.
 
--`CRX_hdmuts_mpra_design.pptx` contains a set of slides for our MPRA library design rationale and considerations.
+- `CRX_hdmuts_mpra_design.pptx` contains a set of slides for our MPRA library design rationale and considerations.
 
 ## Reference
 Prior studies that used similar library designs as in my study here.
