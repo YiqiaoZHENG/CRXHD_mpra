@@ -1,5 +1,5 @@
 # Library design for MPRA experiments in CRX homeodomain variants
-This directory contains all scripts and metadata information used to design the MPRA library. The scripts should be run in the numbered order. All the intermediate and processed data generated are stored under subfolders in the main repository. The raw data can be downloaded from [GEO](link_to_mpra_GEO).
+This directory contains all scripts and metadata information used to design the MPRA library. The scripts should be run in the numbered order. All the intermediate and processed data generated are stored under subfolders in the main repository. The raw data can be downloaded from [GEO: GSE256214](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE256214).
 
 ## Brief description of scripts and metadata files
 - `mpra_barcode_generator.ipynb` generates and validates a set of barcodes with user defined parameters. This script calls `mpra_generate_barcodes.py` and `mpra_validate_barcodes.py`.
