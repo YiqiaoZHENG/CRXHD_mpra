@@ -6,7 +6,10 @@ Necessary software packages with versions used to process data are described in 
 - MPRA oligo library design was performed on [WSL:Ubuntu-20.04](https://docs.microsoft.com/en-us/windows/wsl/).
 - MPRA data analysis was performed on the WashU High Throughput Computing Facility ([HTCF](https://htcf.wustl.edu/docs/)) using [SLURM](https://slurm.schedmd.com/documentation.html).
 - Further processing of intermediate data and visualization of processed data was performed on the WashU High Throughput Computing Facility.
-- Raw data and additional processed data for this manuscript can be downloaded from GEO under SuperSeries [GEO](link_to_mpra_GEO).
+- Raw data and additional processed data for this manuscript can be downloaded from GEO under SuperSeries [GEO:GSE256215](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE256215).
 
 ## Repository organization
 - `hdmuts_library_design` and `hdmuts_retina_analysis` contain scripts, metadata text files, and any intermediate data generated for MPRA library design and data analysis, respectively Detailed descriptions of the usage of these scripts can be found in the README.md under each sub-directory.
+
+## Citation
+doi: 10.1101/gr.279340.124
